@@ -1,13 +1,4 @@
 /*	Eduardo Paredes-Diago
- *	Panther ID: 6138703
- *
- *	I affirm that I wrote this program myself without any help from any other
- *	people or sources from the Internet.
- *
- *	Lab 3: This program reads and prints a text file to the display. Additionally, 
- *	it can return the number of words in the file, it can sort the words lexicographically,
- *	and it can return the number of occurrences of a specific substring. 
- *
  * 	usage: mywords [-cs] [-f substring] filename
 */
 
